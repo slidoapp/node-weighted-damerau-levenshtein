@@ -1,6 +1,6 @@
 const assert = require('assert');
 
-const dldist = require('../index');
+const dldist = require('../src/index');
 
 describe('Weighted Damerau - Levenshtein', () => {
   describe('Empty strings', () => {
