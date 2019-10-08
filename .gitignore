@@ -1,4 +1,3 @@
 .nyc_output
 .eslintrc.yml
 node_modules/*
-dist/*
